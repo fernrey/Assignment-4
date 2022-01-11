@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+button {
+    padding: 50px;
+    margin: 100px;
+    border-style: none;
+    border-radius: 12px;
+    transition-duration: .4s;
+    background-color: aqua;
+    font-size: 18px;
+
+}
+button:hover {
+    background-color: blue;
+}
+
+.forum {
+    font-size: 20px;
+    border-radius: 12px;
+    
+    padding: 10px;
+    width: 25%;
+    margin: auto;
+    background-color: aqua;
+    
+
+}
+input {
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+    border: none;
+
+
+}
+.SignIn{
+    background-color: #f2f2f2;
+
+}
+
+.buttons{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     
+}
+.link1 {
+    text-align: center;
+    font-size: 21px;
+
+    
+}
+.link1 a {
+    text-decoration: none;
+
+}
+.hoverOver {
+    width: 50%;
+    border-style: solid;
+}
