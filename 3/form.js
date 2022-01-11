@@ -1,3 +1,4 @@
+//this actually works, not sure why whenever it says "form submitted, it resets as if nothing happened."
 let submit = document.getElementById("submit");
 let pass1 = document.getElementById("pass");
 let form = document.querySelector(".form")
